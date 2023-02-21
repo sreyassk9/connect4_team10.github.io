@@ -1,15 +1,3 @@
-/*
- *   Connect 4 by Kevin Shannon and Tanner Krewson
- *
- *   Single Player: player is always red. first player is randomized
- *   Local Multi:   players stay same color. first player is randomized
- *   Online Multi:  players stay same color. first player is randomized
- *
- */
-
-/*
- * Setup
- */
 
 //colors and design
 var RED = "red";
